@@ -1,3 +1,7 @@
 {
-    "python.defaultInterpreterPath": "/home/murali_rompikuntla/miniconda3/envs/mle-dev"
+    "python.defaultInterpreterPath": "C:/Users/murali.rompikunt/Miniconda3/python.exe",
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "editor.formatOnSave": true
 }
